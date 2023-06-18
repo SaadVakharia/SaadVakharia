@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SaadVakharia
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Unity
 - 📫 How to reach me saadvakharia401@gmail.com
 
 <!---
